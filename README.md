@@ -8,4 +8,4 @@
 **Smartify is a next-generation VPN and proxy built on the Ultraviolet proxy, offering faster loading speeds, improved reliability, and a sleek, user-friendly interface. Designed for seamless browsing and robust privacy, it sets a new standard for modern VPN services. Smartify was sunset in October 2023 and the service is no longer reachable.**
 
 
-<sup>© 2024 IceliteAI.</sup> <sup>IceliteAI is not affiliated with Digital Dream Labs, Ultraviolet, or Y8 Games.</sup>
+<sup>© 2025 IceliteAI. IceliteAI is not affiliated with Digital Dream Labs, Ultraviolet, or Y8 Games.</sup>
