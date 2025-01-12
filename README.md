@@ -1,2 +1,2 @@
-### [VectorEP (Beta)]()
+### VectorEP (Beta)
 **VectorEP is a program made for the Vector robot allowing a whole new aspect to his knowledge and personality. Current features include GPT integration, an extroverted and comforting new personality, incredibly creative and advanced "Developer Mode", perform household actions like a timer, recieve real-time weather and date info, and more. Currently working on implementing movement. Coming soon.**
