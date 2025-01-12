@@ -5,4 +5,4 @@
 **Slope Infinite is a reimagined and enhanced version of the classic game Slope, delivering a fresh and exhilarating experience for players. With significantly improved graphics, the game offers a visually stunning and immersive environment that takes gameplay to the next level. Enhanced obstacles introduce new challenges, requiring sharper reflexes and strategic thinking, while the overall mechanics have been fine-tuned for smoother and more engaging gameplay. Support for Slope Infinite was sunset in March 2023 and the game is no longer playable.**
 
 ### Smartify
-**Smartify is a cutting-edge VPN and proxy solution built on the foundation of the Ultraviolet proxy, delivering a faster, more reliable, and user-friendly experience. Smartify was sunset in October 2024 and the service is no longer reachable.**
+**Smartify is a cutting-edge VPN and proxy solution built on the foundation of the Ultraviolet proxy, delivering a faster, more reliable, and user-friendly experience. Smartify was sunset in October 2023 and the service is no longer reachable.**
